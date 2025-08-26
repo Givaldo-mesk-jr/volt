@@ -1,15 +1,15 @@
 <a href="https://form.jotform.com/252309415637054" target="_blank" rel="noopener noreferrer">
     <img src="https://is.gd/e2mxGh" 
          alt="made:anuncie "
-         onload="gtag('event', 'impressao_anuncio', {'venda com made': 'betimba'});" 
-         style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+   onload="gtag('event', 'impressao_anuncio', {'nome_anuncio': 'made:anuncie', 'anunciante': 'madebrl', 'editor': 'betimba'});"
+
 </a>
 ---
 <a href="https://form.jotform.com/252313818632051" target="_blank" rel="noopener noreferrer">
     <img src="https://is.gd/Z0o0E6" 
          alt="made:monetize" 
-         onload="gtag('event', 'impressao_anuncio', {'monetize com made': 'betimba'});"
-         style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+         onload="gtag('event', 'impressao_anuncio', {'nome_anuncio': 'made:monetize', 'anunciante': 'madebrl', 'editor': 'betimba'});"
+
 </a>
 ---
 <a href="https://www.esavvy.io/eaidv2/6848f5e9a26235d1a1e1b634" target="_blank" rel="noopener noreferrer">
